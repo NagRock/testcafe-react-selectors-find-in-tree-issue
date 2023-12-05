@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "testcafe-react-selectors": "^5.0.3",
+    "testcafe": "^3.4.0"
   }
 }
